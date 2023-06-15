@@ -7,7 +7,6 @@ Version Info:
 - [x] Unity 2021.3.27f1 version +++
 
 <div align="center" id="top">
-  <img src="" width="900" alt="Profile Readme Generator" />
     <img src="https://github.com/kadircangeyik/Transformice-Clone-Unity3D/blob/main/tfmclone.gif" width="900" alt="Profile Readme Generator" />
 </div>
 
