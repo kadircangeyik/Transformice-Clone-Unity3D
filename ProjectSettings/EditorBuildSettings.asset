@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0 Start Screen.unity
+    guid: d14cb97173217e34e9985ea7bad1be02
+  - enabled: 1
+    path: Assets/Scenes/1 First Room.unity
+    guid: df756af43cd020041a929cafcd73d5b1
+  - enabled: 1
+    path: Assets/Scenes/2 Second Room.unity
+    guid: 0ecc60dcb4c577f4cb2c286683c94ddf
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 463c55846614b604789c03e755916372, type: 2}
