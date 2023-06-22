@@ -10,7 +10,7 @@ Version Info:
     <img src="https://github.com/kadircangeyik/Transformice-Clone-Unity3D/blob/main/tfmclone.gif" width="900" alt="Profile Readme Generator" />
 </div>
 
-docs
+##docs
 
 Here are some random useful / interesting links:
 - [Original game](https://www.transformice.com/)
